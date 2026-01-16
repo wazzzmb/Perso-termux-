@@ -6,10 +6,7 @@ BASHRC = os.path.expanduser("~/.bashrc")
 pseudo = input("Ton pseudo pour Termux : ")
 
 colors = [
-    "\033[95m", # violet
-    "\033[33m", # orange
-    "\033[91m", # rose
-    "\033[96m", # cyan
+    "\033[95m", # viole
 ]
 
 banner = [
